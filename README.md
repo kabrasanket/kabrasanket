@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabrasanket" alt="kabrasanket" /></a> </p>
 
-- 📫 How to reach me **sanketkabra24@gmail.com**
+- 📫 How to reach me **sanketbkabra@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1orClqvjCl1y4I-uC4KP9YVlY6iXuzN_NZ3-PRxvl38c/edit?usp=sharing](https://docs.google.com/document/d/1orClqvjCl1y4I-uC4KP9YVlY6iXuzN_NZ3-PRxvl38c/edit?usp=sharing)
 
